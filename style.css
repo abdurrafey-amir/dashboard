@@ -1,0 +1,31 @@
+html {
+    max-width: 50em;
+    margin: 0 auto;
+    padding: 10px;
+    font-family: Avenir Next, Helvetica, sans-serif;
+    background: #142F44;
+}
+body {
+    color: #F6683B;
+}
+hr {
+    color: #000;
+}
+a {
+    text-decoration: none;
+    color: #F6683B;
+    border-bottom: 2px solid #867a7a;
+}
+
+a:hover {
+    font-style: italic;
+}
+
+h1, h2, #news {
+    font-weight: 300;
+}
+
+#news {
+    font-size: 1.5em;
+    line-height: 1.5em;
+}
